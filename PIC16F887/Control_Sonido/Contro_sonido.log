@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"D:\MikroC\Proyectos PIC's\Control_Sonido\Contro_sonido.mcppi" -SP"D:\MikroC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC\mikroC PRO for PIC\Uses\P16\" -SP"D:\MikroC\Proyectos PIC's\Control_Sonido\" -IP"D:\MikroC\mikroC PRO for PIC\Uses\P16\" "Contro_sonido.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl" "__Lib_Sound.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Contro_sonido.c
+diagnostics: 69	123	Compiled Successfully	Contro_sonido.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 19 (5%)  Free RAM (bytes): 333 (95%)	Used RAM (bytes): 19 (5%)  Free RAM (bytes): 333 (95%)
+hint: 0	1144	Used ROM (program words): 920 (11%)  Free ROM (program words): 7272 (89%)	Used ROM (program words): 920 (11%)  Free ROM (program words): 7272 (89%)
+diagnostics: 0	125	Project Linked Successfully	Contro_sonido.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Contro_sonido.mcppi' completed: 281 ms	 
+diagnostics: 0	103	Finished successfully: 13 nov 2025, 00:37:56	Contro_sonido.mcppi
